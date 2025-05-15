@@ -5,4 +5,4 @@
 
 
 
-[Урок 12](https://illirin.github.io/Lesson12/ "Описание")
+[Урок 12](https://illirin.github.io/Lesson12/ "Моя домашня работа") - работа с репозиторием на Github
